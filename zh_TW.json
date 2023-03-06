@@ -860,7 +860,7 @@
   "Concept 3": "概念3",
   "Concept 4": "概念4",
   "Directories": "目錄",
-  "Dataset Directory": "圖像數據目錄",
+  "Dataset Directory": "實例圖像數據目錄",
   "Classification Dataset Directory": "分類數據集目錄",
   "Filewords": "風格/物品名稱",
   "Instance Token": "實例名稱",
@@ -944,5 +944,6 @@
   "Dry Run": "試跑",
   "Select or create a model to begin.": "選擇或創建一個模型",
   "Start Cropping": "開始裁剪",
+  "Generate lora weights for extra networks.": "生成附加網路的LoRA。(警告:如有使用LoRA擴充功能，此選項無效)",
   "A negative prompt for the generic sample image.": "通用圖像的反向提示詞。"
   }
